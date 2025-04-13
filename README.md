@@ -4,7 +4,7 @@
 Find and remove duplicate files within a chosen folder! This tool compares file *content*, so it finds identical files even if their names are different. It's useful for cleaning up any folder, including Sims 4 Mods/CC folders where renamed duplicates can occur.
 
 ![Screenshot of Duplicate Detective](<https://github.com/Nemofinder90/Duplicate-Detective/blob/main/Screenshot%202025-04-14%20004259.png?raw=true>)
-*(Replace the placeholder URL above with a link to a screenshot of your app)*
+
 
 ## Features
 
@@ -28,3 +28,19 @@ Find and remove duplicate files within a chosen folder! This tool compares file 
     * OR click the "Select Dupes (Keep First)" button (bottom-right) to automatically select all the nested duplicates in the list.
 6.  **Delete:** Click the "Delete Selected" button (red button, bottom-right). **Be careful!** The program will ask you to confirm before **permanently deleting** the selected files.
 7.  **(Optional) Change Theme:** Use the "Dark Mode" switch in the bottom-left sidebar to toggle between light and dark appearances.
+
+
+## ❗ Note on Deletion Errors ("Access Denied")
+
+Sometimes, Windows Security might block the program when you try to delete files located in protected folders (like Documents, Pictures, Desktop), showing an "Access Denied" error.
+
+**This is *not* a virus.** It happens because the app is new/unknown to Windows.
+
+**Quick Fix**
+
+1.  Search Windows for "**Controlled folder access**".
+2.  Click "**Allow an app through Controlled folder access**".
+3.  Click "**Add an allowed app**" -> "**Browse all apps**".
+4.  Find and select the `duplicate detective.exe` file.
+
+This should give the app permission to delete files u want in those protected folders.
