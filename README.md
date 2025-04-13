@@ -1,5 +1,4 @@
-# Duplicate-Detective
-a simple Duplicate finder to clean up some junk
+
 # Duplicate Detective
 
 Find and remove duplicate files within a chosen folder! This tool compares file *content*, so it finds identical files even if their names are different. It's useful for cleaning up any folder, including Sims 4 Mods/CC folders where renamed duplicates can occur.
