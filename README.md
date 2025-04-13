@@ -3,7 +3,7 @@
 
 Find and remove duplicate files within a chosen folder! This tool compares file *content*, so it finds identical files even if their names are different. It's useful for cleaning up any folder, including Sims 4 Mods/CC folders where renamed duplicates can occur.
 
-![Screenshot of Duplicate Detective](<PLACEHOLDER_URL_TO_YOUR_SCREENSHOT.png>)
+![Screenshot of Duplicate Detective](<https://github.com/Nemofinder90/Duplicate-Detective/blob/main/Screenshot%202025-04-14%20004259.png?raw=true>)
 *(Replace the placeholder URL above with a link to a screenshot of your app)*
 
 ## Features
