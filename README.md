@@ -35,7 +35,7 @@ but of course it can be used for other sutff aswell.
 
 Sometimes, Windows Security might block the program when you try to delete files located in protected folders (like Documents, Pictures, Desktop), showing an "Access Denied" error.
 
-**This is *not* a virus.** It happens because the app is new/unknown to Windows.
+*This is *not* a virus You can downloade the code and look urself*⚠️ It happens because the app is new/unknown to Windows.
 
 **Quick Fix**
 
